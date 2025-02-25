@@ -59,17 +59,3 @@ Gunakan Postman untuk menguji API berikut:
 | `POST` | `/api/checklists/{id}/items` | Add Checklist Item |
 | `PUT` | `/api/checklists/items/{id}` | Update Checklist Item |
 | `DELETE` | `/api/checklists/items/{id}` | Delete Checklist Item |
-
----
-
-## 🚀 Contributing
-1. Fork repository ini
-2. Buat branch baru: `git checkout -b feature-branch`
-3. Commit perubahan: `git commit -m "Added new feature"`
-4. Push ke GitHub: `git push origin feature-branch`
-5. Buat Pull Request
-
----
-
-## 📄 License
-MIT License - bebas digunakan dan dikembangkan lebih lanjut.
